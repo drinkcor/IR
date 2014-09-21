@@ -1,4 +1,4 @@
 IR
 ==
 
-Code for lab of IR course
+Code for labs of IR course
